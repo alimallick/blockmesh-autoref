@@ -269,7 +269,7 @@ async def main():
     display_header()
     bot = RegistrationBot()
     
-    print(f"{Fore.YELLOW}Welcome :) Please Enter Registration Details{Style.RESET_ALL}")
+    print(f"{Fore.YELLOW}Welcome :) Please Enter Your Details{Style.RESET_ALL}")
     ref_url = input(f"{Fore.GREEN}Input referral link{Fore.WHITE}: ")
     ref_code = bot.extract_ref_code_from_url(ref_url)
     
