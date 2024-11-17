@@ -35,7 +35,7 @@ python main.py
 ```bash
 python3 main.py
 ```
-- Insert your referral code, example: ``https://app.blockmesh.xyz/register?invite_code=XXXXXXXXXX``
+- Insert your full referral URL, example: ``https://app.blockmesh.xyz/register?invite_code=XXXXXXXXXX``
 - Enter how many referrals you want
 - Result account generated will be saved to ``accounts.txt``
 # Notes
