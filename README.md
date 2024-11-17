@@ -25,8 +25,7 @@ pip3 install -r requirements.txt
 http://host:port
 http://user:pass@host:port
 ```
->only http proxies support for now
->if you want to run without proxies, just remove proxies.txt content or delete proxies.txt
+>only http proxies support for now, if you want to run without proxies, just remove proxies.txt content or delete proxies.txt
 #### Run command:
 - Windows:
 ```bash
