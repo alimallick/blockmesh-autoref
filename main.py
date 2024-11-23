@@ -13,20 +13,13 @@ import time
 from datetime import datetime
 
 init(autoreset=True)
-def display_header():
-    print(f"""
-{Fore.CYAN + Style.BRIGHT}
-     _____ _         _   _____         _   
-    | __  | |___ ___| |_|     |___ ___| |_ 
-    | __ -| | . |  _| '_| | | | -_|_ -|   |
-    |_____|_|___|___|_,_|_|_|_|___|___|_|_| 
-            Auto Referral Script
-{Style.RESET_ALL}
-{Fore.YELLOW}╔════════════════════════════════════════════════╗
-║  {Fore.GREEN}• Author: IM-Hanzou                           {Fore.YELLOW}║
-║  {Fore.GREEN}• Github: github.com/im-hanzou                {Fore.YELLOW}║
-╚════════════════════════════════════════════════╝{Style.RESET_ALL}
-    """)
+# Display styled "CryptoAirdropHindi" and run Glacier Verifier
+function run_CryptoAirdropHindi() {
+    clear
+    toilet -f future "CryptoAirdropHindi" --gay
+    echo
+    echo "Welcome to CryptoAirdropHindi Validator Setup!"
+    echo)
 
 def log_info(message: str):
     timestamp = datetime.now().strftime("%H:%M:%S")
